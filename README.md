@@ -1,3 +1,18 @@
+mirage-logistics/
+
+apps/
+    web/
+
+packages/
+    ui/
+    types/
+    utils/
+
+docs/
+
+.github/
+
+public/
 # # Mirage Logistics
 
 Mirage Logistics is a premium enterprise logistics platform built with modern web technologies.
